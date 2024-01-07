@@ -13,3 +13,5 @@ INSTALL :
   python generateview.py
   
   Simply watches a single instace of chrome and auto plays any song for as long as you want. It auto plays for 25-35 seconds.
+
+
